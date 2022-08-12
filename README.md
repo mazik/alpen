@@ -10,7 +10,7 @@ I couldn't find a simple Docker image that's easy to understand and doesn't add 
 
 ## Installation
 1. Clone the repository `https://github.com/mazik/alpen`
-2. Spin up Docker container `docker compose up -d'
+2. Spin up Docker container `docker compose up -d`
 3. Place your PHP files under the `www` directory
 4. Visit `http://localhost:80`
 
